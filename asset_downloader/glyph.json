@@ -1,0 +1,197 @@
+[
+  {
+    "position": "1",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/c/c6/MilkyWayGlyph01.svg",
+    "name": "Point of origin"
+  },
+  {
+    "position": "14",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/2/24/MilkyWayGlyph14.svg",
+    "name": "Microscopium"
+  },
+  {
+    "position": "27",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/8/8d/MilkyWayGlyph27.svg",
+    "name": "Taurus"
+  },
+  {
+    "position": "2",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/c/c3/MilkyWayGlyph02.svg",
+    "name": "Crater"
+  },
+  {
+    "position": "15",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/6/6b/MilkyWayGlyph15.svg",
+    "name": "Capricornus"
+  },
+  {
+    "position": "28",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/c/cf/MilkyWayGlyph28.svg",
+    "name": "Auriga"
+  },
+  {
+    "position": "3",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/6/65/MilkyWayGlyph03.svg",
+    "name": "Virgo"
+  },
+  {
+    "position": "16",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/d/d6/MilkyWayGlyph16.svg",
+    "name": "Piscis Austrinus"
+  },
+  {
+    "position": "29",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/c/ce/MilkyWayGlyph29.svg",
+    "name": "Eridanus"
+  },
+  {
+    "position": "4",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/9/97/MilkyWayGlyph04.svg",
+    "name": "Bo\u00f6tes"
+  },
+  {
+    "position": "17",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/9/9b/MilkyWayGlyph17.svg",
+    "name": "Equuleus"
+  },
+  {
+    "position": "30",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/0/04/MilkyWayGlyph30.svg",
+    "name": "Orion"
+  },
+  {
+    "position": "5",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/b/b8/MilkyWayGlyph05.svg",
+    "name": "Centaurus"
+  },
+  {
+    "position": "18",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/9/9f/MilkyWayGlyph18.svg",
+    "name": "Aquarius"
+  },
+  {
+    "position": "31",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/5/5b/MilkyWayGlyph31.svg",
+    "name": "Canis Minor"
+  },
+  {
+    "position": "6",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/8/8d/MilkyWayGlyph06.svg",
+    "name": "Libra"
+  },
+  {
+    "position": "19",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/9/9f/MilkyWayGlyph19.svg",
+    "name": "Pegasus"
+  },
+  {
+    "position": "32",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/f/f5/MilkyWayGlyph32.svg",
+    "name": "Monoceros"
+  },
+  {
+    "position": "7",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/7/71/MilkyWayGlyph07.svg",
+    "name": "Serpens Caput"
+  },
+  {
+    "position": "20",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/e/e2/MilkyWayGlyph20.svg",
+    "name": "Sculptor"
+  },
+  {
+    "position": "33",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/a/a7/MilkyWayGlyph33.svg",
+    "name": "Gemini"
+  },
+  {
+    "position": "8",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/6/69/MilkyWayGlyph08.svg",
+    "name": "Norma"
+  },
+  {
+    "position": "21",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/3/3b/MilkyWayGlyph21.svg",
+    "name": "Pisces"
+  },
+  {
+    "position": "34",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/c/ca/MilkyWayGlyph34.svg",
+    "name": "Hydra"
+  },
+  {
+    "position": "9",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/6/6c/MilkyWayGlyph09.svg",
+    "name": "Scorpius"
+  },
+  {
+    "position": "22",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/e/e6/MilkyWayGlyph22.svg",
+    "name": "Andromeda"
+  },
+  {
+    "position": "35",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/4/46/MilkyWayGlyph35.svg",
+    "name": "Lynx"
+  },
+  {
+    "position": "10",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/5/54/MilkyWayGlyph10.svg",
+    "name": "Corona Australis"
+  },
+  {
+    "position": "23",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/d/da/MilkyWayGlyph23.svg",
+    "name": "Triangulum"
+  },
+  {
+    "position": "36",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/a/aa/MilkyWayGlyph36.svg",
+    "name": "Cancer"
+  },
+  {
+    "position": "11",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/e/e2/MilkyWayGlyph11.svg",
+    "name": "Scutum"
+  },
+  {
+    "position": "24",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/d/d3/MilkyWayGlyph24.svg",
+    "name": "Aries"
+  },
+  {
+    "position": "37",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/f/fa/MilkyWayGlyph37.svg",
+    "name": "Sextans"
+  },
+  {
+    "position": "12",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/3/3f/MilkyWayGlyph12.svg",
+    "name": "Sagittarius"
+  },
+  {
+    "position": "25",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/1/17/MilkyWayGlyph25.svg",
+    "name": "Perseus"
+  },
+  {
+    "position": "38",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/c/cd/MilkyWayGlyph38.svg",
+    "name": "Leo"
+  },
+  {
+    "position": "13",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/2/27/MilkyWayGlyph13.svg",
+    "name": "Aquila"
+  },
+  {
+    "position": "26",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/7/7a/MilkyWayGlyph26.svg",
+    "name": "Cetus"
+  },
+  {
+    "position": "39",
+    "glyph": "https://static.wikia.nocookie.net/stargate-sgc/images/3/30/MilkyWayGlyph39.svg",
+    "name": "Leo Minor"
+  }
+]
